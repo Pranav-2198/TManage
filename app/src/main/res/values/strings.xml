@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TManage</string>
+    <string name="group">Group</string>
+    <string name="grades">Grades</string>
+    <string name="announcements">Announcements</string>
+    <string name="schedule_meeting">Schedule Meeting</string>
+</resources>

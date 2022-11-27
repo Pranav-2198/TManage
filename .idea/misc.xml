@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_person_icon_default.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3169601482854495" />
+        <entry key="app/src/main/res/layout/course_layout.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/course_layout_adapter.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/group_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/groups_layout_adapter.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/groups_layout_editor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/oh_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/oh_layout_adapter.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/oh_person_adapter.xml" value="0.335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

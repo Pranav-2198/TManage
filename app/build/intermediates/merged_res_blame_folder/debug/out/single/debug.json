@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/drawable_ic_person_24.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/drawable/ic_person_24.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_group_layout.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/group_layout.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_oh_layout_adapter.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/oh_layout_adapter.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_course_layout.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/course_layout.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_groups_layout_adapter.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/groups_layout_adapter.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_oh_person_adapter.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/oh_person_adapter.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/drawable_ic_person_icon_default.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/drawable/ic_person_icon_default.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_course_layout_adapter.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/course_layout_adapter.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/drawable_ic_baseline_groups_24.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/drawable/ic_baseline_groups_24.xml"
+    },
+    {
+        "merged": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/build/intermediates/merged_res/debug/layout_oh_layout.xml.flat",
+        "source": "/Users/sravyalenka/AndroidStudioProjects/TManage/app/src/main/res/layout/oh_layout.xml"
+    }
+]

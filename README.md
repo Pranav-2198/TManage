@@ -8,6 +8,16 @@ There is also a subfolder called **Project Files** which includes related projec
 - EFD 
 - FRD
 - Presentation
+
+***Project Team:***
+
+- Amitesvarjit Broca   
+- Animesh Nandan
+- Pranav Adiraju       
+- Ritika Namilikonda
+- Sravya Lenka              
+- Steicy Singh
+- Ushasri Bhogaraju
     
     
     
